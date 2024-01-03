@@ -36,20 +36,5 @@
 
 <br />
 
-### 📊 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sehyeo&layout=compact)](https://github.com/sehyeo/github-readme-stats)
-
-<br />
-
-### 💪🏻 Problem Solving
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=icomksh)](https://solved.ac/icomksh)
-
-<br />
-<br />
-
-### 🌈 Follow Me !
-<img src="https://img.shields.io/badge/Gmail-A31717?style=for-the-badge&logo=Gmail&logoColor=white">
-<img src="https://img.shields.io/badge/instagram-E00078?style=for-the-badge&logo=instagram&logoColor=white">
-<img src="https://img.shields.io/badge/naver-73E500?style=for-the-badge&logo=naver&logoColor=white">
 
 </div>
