@@ -17,7 +17,6 @@
 <img src="https://img.shields.io/badge/python-F2F200?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/VS-AB6FE3?style=for-the-badge&logo=VisualStudio&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-44CC00?style=for-the-badge&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/React-00AAFF?style=for-the-badge&logo=React&logoColor=white">
 <br />
 <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=white">
