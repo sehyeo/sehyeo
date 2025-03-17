@@ -6,7 +6,7 @@
        <img
          src="https://render.gitanimals.org/guilds/687903413394822973/draw"
          width="500"
-         height="150"
+         height="200"
          alt="gitanimals"
        />
     </a>
