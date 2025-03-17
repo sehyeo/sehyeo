@@ -5,7 +5,7 @@
     <a href="https://www.gitanimals.org/">
        <img
          src="https://render.gitanimals.org/guilds/687903413394822973/draw"
-         width="400"
+         width="500"
          height="150"
          alt="gitanimals"
        />
