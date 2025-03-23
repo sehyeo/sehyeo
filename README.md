@@ -1,4 +1,6 @@
 <div align="center">
+  <h1>What I've been learning</h1>
+  <hr />
   <div>
     <h4>Frontend</h4>
       <img src="https://skillicons.dev/icons?i=html,css,js,react,kotlin" />
