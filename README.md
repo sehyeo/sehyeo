@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>What I've been learning</h1>
+  <h1>✨What I've been learning</h1>
   <hr />
   <div>
     <h4>Frontend</h4>
