@@ -24,5 +24,5 @@
        />
     </a>
   </a>
-  <img src="https://raw.githubusercontent.com/sehyeo/sehyeo/main/profile-3d-contrib/profile-night-green.svg" alt="3D 잔디" width="80%" />
+  <img src="https://raw.githubusercontent.com/sehyeo/sehyeo/main/profile-3d-contrib/profile-night-green.svg" alt="3D 잔디" width="60%" />
 </div>
