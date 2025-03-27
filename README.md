@@ -24,5 +24,5 @@
        />
     </a>
   </a>
-    <img src="https://raw.githubusercontent.com/sehyeo/sehyeo/main/profile-3d-contrib/profile-green-animate.svg">
+    ![](./profile-3d-contrib/profile-green-animate.svg)
 </div>
