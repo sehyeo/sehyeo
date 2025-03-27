@@ -14,16 +14,15 @@
     <h4>Tools</h4>
     <img src="https://skillicons.dev/icons?i=git,github,notion,figma,discord" />
   </div>
-  <a href="https://www.gitanimals.org/" target="_blank">
-    <img
-      src="https://render.gitanimals.org/guilds/687903413394822973/draw"
-      alt="gitanimals"
-      style="width: 40%; height: 300px; object-fit: cover;"
-    />
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sehyeo&utm_content=farm">
+    <a href="https://www.gitanimals.org/">
+       <img
+         src="https://render.gitanimals.org/guilds/687903413394822973/draw"
+         width="500"
+         height="300"
+         alt="gitanimals"
+       />
+    </a>
   </a>
-  <img
-    src="https://raw.githubusercontent.com/sehyeo/sehyeo/main/profile-3d-contrib/profile-night-green.svg"
-    alt="3D 잔디"
-    style="width: 40%; height: 300px; object-fit: cover;"
-  />
+  <img src="https://raw.githubusercontent.com/sehyeo/sehyeo/main/profile-3d-contrib/profile-night-green.svg" alt="3D 잔디" width="60%" />
 </div>
