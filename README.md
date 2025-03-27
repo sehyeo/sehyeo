@@ -18,12 +18,12 @@
     <img
       src="https://render.gitanimals.org/guilds/687903413394822973/draw"
       alt="gitanimals"
-      style="width: 50%;"
+      style="width: 40%;"
     />
   </a>
   <img
     src="https://raw.githubusercontent.com/sehyeo/sehyeo/main/profile-3d-contrib/profile-night-green.svg"
     alt="3D 잔디"
-    style="width: 50%;"
+    style="width: 40%;"
   />
 </div>
