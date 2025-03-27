@@ -18,7 +18,7 @@
     <img
       src="https://render.gitanimals.org/guilds/687903413394822973/draw"
       alt="gitanimals"
-      style="width: 40%; height:"200";"
+      style="width: 40%; height:200px;"
     />
   </a>
   <img
