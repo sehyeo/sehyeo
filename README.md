@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sehyeo&show_icons=true&theme=radical" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehyeo&layout=compact" height="180">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sehyeo&layout=donut)](https://github.com/sehyeo/github-readme-stats)
   <h1>✨What I've been learning</h1>
   <div>
     <h4>Frontend</h4>
