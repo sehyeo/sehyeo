@@ -24,7 +24,5 @@
        />
     </a>
   </a>
-  <div>
-  ![](./profile-3d-contrib/profile-green-animate.svg)
-  </div>
+  <img src="https://raw.githubusercontent.com/sehyeo/sehyeo/main/profile-3d-contrib/profile-green-animate.svg" alt="3D 잔디" width="100%" />
 </div>
