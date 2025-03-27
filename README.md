@@ -15,7 +15,6 @@
     <img src="https://skillicons.dev/icons?i=git,github,notion,figma,discord" />
   </div>
   <div style="display: flex; justify-content: center; align-items: center; gap: 16px;">
-    <!-- GitAnimals -->
     <a href="https://www.gitanimals.org/" target="_blank">
       <img
         src="https://render.gitanimals.org/guilds/687903413394822973/draw"
@@ -23,8 +22,6 @@
         style="width: 100%; max-width: 400px;"
       />
     </a>
-
-    <!-- 3D 잔디 -->
     <img
       src="https://raw.githubusercontent.com/sehyeo/sehyeo/main/profile-3d-contrib/profile-night-green.svg"
       alt="3D 잔디"
