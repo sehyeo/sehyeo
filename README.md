@@ -17,6 +17,6 @@
   <img
     src="https://raw.githubusercontent.com/sehyeo/sehyeo/main/profile-3d-contrib/profile-night-green.svg"
     alt="3D 잔디"
-    style="width: 70%; height: 300px; object-fit: cover;"
+    style="width: 100%; height: 300px; object-fit: cover;"
   />
 </div>
