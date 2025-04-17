@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sehyeo&show_icons=true&theme=radical" height="180">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehyeo&layout=donut" height="180">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Andrej+Marinchenko;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
 
   <h1>✨What I've been learning</h1>
   <div>
