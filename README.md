@@ -9,7 +9,7 @@
   </div>
   <div>
     <h4>Backend</h4>
-      <img src="https://skillicons.dev/icons?i=java,py,spring,aws,docker" />
+      <img src="https://skillicons.dev/icons?i=java,py,spring,aws,docker,redis" />
   </div>
   <div>
     <h4>Tools</h4>
