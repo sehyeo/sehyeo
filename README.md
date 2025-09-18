@@ -13,7 +13,7 @@
   </div>
   <div>
     <h4>Tools</h4>
-    <img src="https://skillicons.dev/icons?i=eclipse,intellj,vsc,datagrip,slack,git,github,notion,figma,discord" />
+    <img src="https://skillicons.dev/icons?i=eclipse,idea,visualstudio,datagrip,slack,git,github,notion,figma,discord" />
   </div>
   <br />
   <img
