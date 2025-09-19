@@ -16,7 +16,7 @@
 
   <div>
     <h4>Backend</h4>
-    <img src="https://skillicons.dev/icons?i=spring,fastapi,java,py,nodejs" alt="Spring, FastAPI, Java, Python, Node.js" />
+    <img src="https://skillicons.dev/icons?i=spring,java,py,nodejs" alt="Spring, Java, Python, Node.js" />
   </div>
 
   <div>
@@ -26,12 +26,12 @@
 
   <div>
     <h4>ML / AI</h4>
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,sklearn,opencv,numpy,pandas" alt="PyTorch, TensorFlow, Keras, scikit-learn, OpenCV, NumPy, pandas" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,opencv,numpy,pandas" alt="TensorFlow, OpenCV, NumPy, pandas" />
   </div>
 
   <div>
     <h4>Tools</h4>
-    <img src="https://skillicons.dev/icons?i=eclipse,idea,visualstudio,vscode,androidstudio,postman,firebase,unity,selenium" alt="Eclipse, IntelliJ IDEA, Visual Studio, VS Code, Android Studio, Postman, Firebase, Unity, Selenium" />
+    <img src="https://skillicons.dev/icons?i=eclipse,idea,visualstudio,vscode,androidstudio,postman,firebase,unity" alt="Eclipse, IntelliJ IDEA, Visual Studio, VS Code, Android Studio, Postman, Firebase, Unity" />
   </div>
 
   <div>
@@ -41,12 +41,7 @@
 
   <div>
     <h4>References</h4>
-    <a href="https://stackoverflow.com" target="_blank" rel="noreferrer">
-      <img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow" />
-    </a>
-    <a href="https://www.inflearn.com" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/Inflearn-00C471?style=for-the-badge" alt="Inflearn" />
-    </a>
+    <img src="https://skillicons.dev/icons?i=stackoverflow" alt="StackOverFlow" />
   </div>
   
   <br />
