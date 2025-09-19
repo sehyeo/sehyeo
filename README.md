@@ -25,11 +25,6 @@
   </div>
 
   <div>
-    <h4>ML / AI</h4>
-    <img src="https://skillicons.dev/icons?i=tensorflow,opencv,numpy,pandas" alt="TensorFlow, OpenCV, NumPy, pandas" />
-  </div>
-
-  <div>
     <h4>Tools</h4>
     <img src="https://skillicons.dev/icons?i=eclipse,idea,visualstudio,vscode,androidstudio,postman,firebase,unity" alt="Eclipse, IntelliJ IDEA, Visual Studio, VS Code, Android Studio, Postman, Firebase, Unity" />
   </div>
