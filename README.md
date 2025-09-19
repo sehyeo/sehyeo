@@ -6,12 +6,12 @@
 
   <div>
     <h4>Languages</h4>
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,ts,js,kotlin" alt="C, C++, Java, Python, TypeScript, JavaScript, Kotlin" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,kotlin" alt="C, C++, Java, Python, JavaScript, Kotlin" />
   </div>
 
   <div>
   <h4>Frontend</h4>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" alt="HTML, CSS, JS, TS, React, Tailwind CSS" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="HTML, CSS, JS, React, Tailwind CSS" />
   </div>
 
   <div>
@@ -21,7 +21,7 @@
 
   <div>
     <h4>Data & Infra</h4>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,rabbitmq,nginx,docker,kubernetes,aws,linux" alt="MySQL, PostgreSQL, Redis, RabbitMQ, Nginx, Docker, Kubernetes, AWS, Linux" />
+    <img src="https://skillicons.dev/icons?i=mysql,redis,rabbitmq,nginx,docker,kubernetes,aws,linux" alt="MySQL, Redis, RabbitMQ, Nginx, Docker, Kubernetes, AWS, Linux" />
   </div>
 
   <div>
