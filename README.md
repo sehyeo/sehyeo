@@ -36,7 +36,7 @@
 
   <div>
     <h4>References</h4>
-    <img src="https://skillicons.dev/icons?i=stackoverflow,reddit" alt="StackOverFlow, Reddit" />
+    <img src="https://skillicons.dev/icons?i=stackoverflow" alt="StackOverFlow" />
   </div>
   
   <br />
