@@ -6,12 +6,12 @@
 
   <div>
     <h4>Languages</h4>
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,kotlin" alt="C, C++, Java, Python, JavaScript, Kotlin" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,kotlin" alt="C, C++, Java, Python, Kotlin" />
   </div>
 
   <div>
   <h4>Frontend</h4>
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="HTML, CSS, JS, React, Tailwind CSS" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,kotlin" alt="HTML, CSS, JS, React, Tailwind CSS, Kotlin" />
   </div>
 
   <div>
