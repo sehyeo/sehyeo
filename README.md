@@ -16,7 +16,7 @@
 
   <div>
     <h4>Backend</h4>
-    <img src="https://skillicons.dev/icons?i=spring,java,py,nodejs" alt="Spring, Java, Python, Node.js" />
+    <img src="https://skillicons.dev/icons?i=spring,java,py,nodejs,fastapi,flask" alt="Spring, Java, Python, Node.js, Fast API, Flask" />
   </div>
 
   <div>
