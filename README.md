@@ -21,7 +21,7 @@
 
   <div>
     <h4>Data & Infra</h4>
-    <img src="https://skillicons.dev/icons?i=mysql,redis,rabbitmq,nginx,docker,kubernetes,aws,linux" alt="MySQL, Redis, RabbitMQ, Nginx, Docker, Kubernetes, AWS, Linux" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,rabbitmq,nginx,docker,kubernetes,aws,linux" alt="MySQL, PostgreSQL, Redis, RabbitMQ, Nginx, Docker, Kubernetes, AWS, Linux" />
   </div>
 
   <div>
