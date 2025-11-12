@@ -26,7 +26,7 @@
 
   <div>
     <h4>Tools</h4>
-    <img src="https://skillicons.dev/icons?i=eclipse,idea,visualstudio,vscode,androidstudio,postman,pycharm,firebase,unity" alt="Eclipse, IntelliJ IDEA, Visual Studio, VS Code, Android Studio, Postman, PyCharm, Firebase, Unity" />
+    <img src="https://skillicons.dev/icons?i=eclipse,idea,visualstudio,vscode,pycharm,androidstudio,postman,firebase,unity" alt="Eclipse, IntelliJ IDEA, Visual Studio, VS Code, PyCharm, Android Studio, Postman, Firebase, Unity" />
   </div>
 
   <div>
