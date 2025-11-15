@@ -6,7 +6,7 @@
 
   <div>
     <h4>Languages</h4>
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,kotlin" alt="C, C++, Java, Python, Kotlin" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,kotlin" alt="C, C++, C#, Java, Python, Kotlin" />
   </div>
 
   <div>
