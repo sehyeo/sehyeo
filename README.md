@@ -7,11 +7,11 @@
   
   <strong>Mar 2024 ~ Aug 2024</strong> NE(O)DINARY University MakeUs Challenge 6th — SpringBoot (KIOKI)  
   
-  <strong>Sep 2024 ~ Feb 2025</strong> NE(O)DINARY University MakeUs Challenge 7th — SpringBoot (GrowIT) <em>Award:</em> 우수상 🏆
+  <strong>Sep 2024 ~ Feb 2025</strong> NE(O)DINARY University MakeUs Challenge 7th — SpringBoot (GrowIT) 우수상 🏆
   
-  <strong>Mar 2025 ~ Aug 2025</strong> NE(O)DINARY University MakeUs Challenge 8th — Android (TeumTeum) <em>Award:</em> 장려상 🏆
+  <strong>Mar 2025 ~ Aug 2025</strong> NE(O)DINARY University MakeUs Challenge 8th — Android (TeumTeum) 장려상 🏆
   
-  <strong>Oct 2025 ~ Dec 2025</strong> SKU Software Academy Project — AIDI <em>Awards:</em> 대상, AI부문 금상 🏆
+  <strong>Oct 2025 ~ Dec 2025</strong> SKU Software Academy Project — AIDI 대상, AI부문 금상 🏆
 
   <h1>✨What I've been learning</h1>
 
