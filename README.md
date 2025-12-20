@@ -7,33 +7,33 @@
 <ul>
   <li>
     <strong>Sep 2023 – Feb 2024</strong><br/>
-    NE(O)DINARY University MakeUs Challenge 5th — Web Project (UMARK)
+    NE(O)DINARY University MakeUs Challenge 5th — Web (UMARK)
   </li>
   <br/>
 
   <li>
     <strong>Mar 2024 – Aug 2024</strong><br/>
-    NE(O)DINARY University MakeUs Challenge 6th — Spring Boot Project (KIOKI)
+    NE(O)DINARY University MakeUs Challenge 6th — Spring Boot (KIOKI)
   </li>
   <br/>
 
   <li>
     <strong>Sep 2024 – Feb 2025</strong><br/>
-    NE(O)DINARY University MakeUs Challenge 7th — Spring Boot Project (GrowIT)<br/>
+    NE(O)DINARY University MakeUs Challenge 7th — Spring Boot (GrowIT)<br/>
     🏆 <em>Excellence Award</em>
   </li>
   <br/>
 
   <li>
     <strong>Mar 2025 – Aug 2025</strong><br/>
-    NE(O)DINARY University MakeUs Challenge 8th — Android Project (TeumTeum)<br/>
+    NE(O)DINARY University MakeUs Challenge 8th — Android (TeumTeum)<br/>
     🏆 <em>Honorable Mention</em>
   </li>
   <br/>
 
   <li>
     <strong>Oct 2025 – Dec 2025</strong><br/>
-    SKU Software Academy Project — AIDI<br/>
+    SKU Software Academy — AIDI<br/>
     🏆 <em>Grand Prize</em><br/>
     🏆 <em>Gold Prize (AI Category)</em>
   </li>
