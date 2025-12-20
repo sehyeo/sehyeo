@@ -3,20 +3,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehyeo&layout=donut" height="180">
 
   <h1>🎓Experience</h1>
-<strong>Sep 2023 – Feb 2024</strong> NE(O)DINARY University MakeUs Challenge 5th — Web Project (UMARK)
+  <strong>Sep 2023 ~ Feb 2024</strong> NE(O)DINARY University MakeUs Challenge 5th — Web (UMARK)
 
-<strong>Mar 2024 – Aug 2024</strong> NE(O)DINARY University MakeUs Challenge 6th — Spring Boot Project (KIOKI)  
+  <strong>Mar 2024 ~ Aug 2024</strong> NE(O)DINARY University MakeUs Challenge 6th — SpringBoot (KIOKI)  
 
-<strong>Sep 2024 – Feb 2025</strong> NE(O)DINARY University MakeUs Challenge 7th — Spring Boot Project (GrowIT)  
-<em>Award:</em> Excellence Award 🏅
+  <strong>Sep 2024 ~ Feb 2025</strong> NE(O)DINARY University MakeUs Challenge 7th — SpringBoot (GrowIT)  
+  <em>Award:</em> 우수상 🏆
 
-<strong>Mar 2025 – Aug 2025</strong> NE(O)DINARY University MakeUs Challenge 8th — Android Project (TeumTeum)  
-<em>Award:</em> Encouragement Award 🏆
+  <strong>Mar 2025 ~ Aug 2025</strong> NE(O)DINARY University MakeUs Challenge 8th — Android (TeumTeum)  
+  <em>Award:</em> 장려상 🏆
 
-<strong>Oct 2025 – Dec 2025</strong> SKU Software Academy Project — AIDI  
-<em>Awards:</em>  
-- Grand Prize 🥇  
-- Gold Prize (AI Category) 🥇
+  <strong>Oct 2025 ~ Dec 2025</strong> SKU Software Academy Project — AIDI  
+  <em>Awards:</em> 대상, AI부문 금상 🏆
 
   <h1>✨What I've been learning</h1>
 
