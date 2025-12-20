@@ -2,16 +2,42 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sehyeo&show_icons=true&theme=radical" height="180">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehyeo&layout=donut" height="180">
 
-  <h1>🎓Experience</h1>
-  <strong>Sep 2023 ~ Feb 2024</strong> NE(O)DINARY University MakeUs Challenge 5th — Web (UMARK)
-  
-  <strong>Mar 2024 ~ Aug 2024</strong> NE(O)DINARY University MakeUs Challenge 6th — SpringBoot (KIOKI)  
-  
-  <strong>Sep 2024 ~ Feb 2025</strong> NE(O)DINARY University MakeUs Challenge 7th — SpringBoot (GrowIT) 우수상 🏆
-  
-  <strong>Mar 2025 ~ Aug 2025</strong> NE(O)DINARY University MakeUs Challenge 8th — Android (TeumTeum) 장려상 🏆
-  
-  <strong>Oct 2025 ~ Dec 2025</strong> SKU Software Academy Project — AIDI 대상, AI부문 금상 🏆
+  <h1>🎓 Experience</h1>
+
+<ul>
+  <li>
+    <strong>Sep 2023 – Feb 2024</strong><br/>
+    NE(O)DINARY University MakeUs Challenge 5th — Web Project (UMARK)
+  </li>
+  <br/>
+
+  <li>
+    <strong>Mar 2024 – Aug 2024</strong><br/>
+    NE(O)DINARY University MakeUs Challenge 6th — Spring Boot Project (KIOKI)
+  </li>
+  <br/>
+
+  <li>
+    <strong>Sep 2024 – Feb 2025</strong><br/>
+    NE(O)DINARY University MakeUs Challenge 7th — Spring Boot Project (GrowIT)<br/>
+    🏆 <em>Excellence Award</em>
+  </li>
+  <br/>
+
+  <li>
+    <strong>Mar 2025 – Aug 2025</strong><br/>
+    NE(O)DINARY University MakeUs Challenge 8th — Android Project (TeumTeum)<br/>
+    🏆 <em>Honorable Mention</em>
+  </li>
+  <br/>
+
+  <li>
+    <strong>Oct 2025 – Dec 2025</strong><br/>
+    SKU Software Academy Project — AIDI<br/>
+    🏆 <em>Grand Prize</em><br/>
+    🏆 <em>Gold Prize (AI Category)</em>
+  </li>
+</ul>
 
   <h1>✨What I've been learning</h1>
 
