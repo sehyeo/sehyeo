@@ -35,7 +35,7 @@
     <strong>Oct 2025 – Dec 2025</strong><br/>
     SKU Software Academy — AIDI<br/>
     🏆 <em>Grand Prize</em><br/>
-    🏆 <em>Gold Prize (AI Category)</em>
+    🏆 <em>Gold Prize (AI Category)</em><br/>
     🏆 <em>IITP Excellent Student</em>
   </li>
 </ul>
