@@ -36,6 +36,7 @@
     SKU Software Academy — AIDI<br/>
     🏆 <em>Grand Prize</em><br/>
     🏆 <em>Gold Prize (AI Category)</em>
+    🏆 <em>IITP Excellent Student</em>
   </li>
 </ul>
 
